@@ -1,32 +1,24 @@
-Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Proven Business Analyst | Ready to combine decision making and critical thinking skills in business processing environments.
 
+Proven talent for aligning business strategy and objectives with established modeling development and visualization management paradigms to achieve maximum analytical results with minimal obstacles.
 
-This is Massively, a text-heavy, article-oriented design built around a huge background
-image (with a new parallax implementation I'm testing) and scroll effects (powered by
-Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
-that fulfills a few user requests and makes use of some new techniques I've been wanting
-to try out. Enjoy it :)
+I graduated from Conestoga College majored in Information Technology Business Analysis to expand my fundamentals and skills in Data Analysis and Business Intelligence. Before this, I worked with H&M and E-Cafe Ventures for 3 years. I worked with multiple teams to extract data-driven insights using Big Data tools and created automated dashboards using Tableau to track customer segments and different credit card performance. 
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+Dedicated professional with excellent interpersonal communication and team management skills. I have expertise in revenue enhancement, process enhancement and information technology. I am a disciplined well-organized critical thinker driven to use BI technologies to draw insights and enhance business performance.
 
-(* = not included)
+Technical Skills:
+• Programming: SQL, SAS, Python, R, Hive, C, Java, PHP, HTML, CSS, JavaScript, MATLAB, Linux
+• Tools: MS Excel, Hadoop, Tableau, SAS Enterprise Miner, Power BI, QlikView, MS Project, JIRA
+• Database Systems: MS SQL Server, MY SQL, Oracle 11g, MongoDB
+• Software Skills: Excel (Pivot, Vlookup, etc), Alteryx, RStudio, SPSS Modeler, SPSS statistics, Jupyter Notebook, Anaconda
+• Machine learning algorithms: Linear Regression, Logistic Regression, Classification, Clustering, Decision Trees, Random Forest,
+KNN, Support Vector Machines, Recommender Systems, Gradient Boosting, Ensemble methods
 
-AJ
-aj@lkn.io | @ajlkn
+Organizations:
+IIBA - International Institute of Business Analysis
 
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Certification:
+Tableau Desktop specialist- Tableau
+Tableau Analyst- Tableau
+PowerBI Essentials - Power BI
+Python for Data Science 

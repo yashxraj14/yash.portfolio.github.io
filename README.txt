@@ -1,7 +1,3 @@
-Proven Business Analyst | Ready to combine decision making and critical thinking skills in business processing environments.
-
-Proven talent for aligning business strategy and objectives with established modeling development and visualization management paradigms to achieve maximum analytical results with minimal obstacles.
-
 I graduated from Conestoga College majored in Information Technology Business Analysis to expand my fundamentals and skills in Data Analysis and Business Intelligence. Before this, I worked with H&M and E-Cafe Ventures for 3 years. I worked with multiple teams to extract data-driven insights using Big Data tools and created automated dashboards using Tableau to track customer segments and different credit card performance. 
 
 Dedicated professional with excellent interpersonal communication and team management skills. I have expertise in revenue enhancement, process enhancement and information technology. I am a disciplined well-organized critical thinker driven to use BI technologies to draw insights and enhance business performance.
